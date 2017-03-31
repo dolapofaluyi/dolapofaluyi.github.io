@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<div id="container">
+<header>header</header>
+<div id="titleBar">Content for  id "titleBar" Goes Here</div><!-- end titleBar -->
+<nav id="topNav">/<nav><!-- end topNav -->
+<div id="main">
+  <div id="ContentOne">Content for  id "ContentOne" Goes Here</div><!-- end contentOne -->
+  <div id="ContentTwo">Content for  id "ContentTwo" Goes Here</div><!-- end ContentTwo -->
+</div><!-- end main -->
+<footer>
+<nav id"bottomNav">bottom nav</nav>
+</footer>
+</div><!-- end container -->
+</body>
+</html>
+ top
